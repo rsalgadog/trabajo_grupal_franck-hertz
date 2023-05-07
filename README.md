@@ -1,5 +1,5 @@
 # Léeme
-# Medición experimental de la resistencia equivalente de un circuito mixto de resistores y verificación de la linealidad de la ley de Ohm 
+# Medición experimental de la energía de excitación mas baja de los átomos de Neón por medio del experimento de Franck-Hertz.
 ## Instrucciones 
 La versión final de su repositorio debe contener:
 
